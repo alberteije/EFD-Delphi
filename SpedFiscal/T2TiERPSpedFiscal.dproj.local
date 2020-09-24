@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013/06/15 15:20:02.083.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UEntradaNF.pas=</Transaction>
+    <Transaction>2013/06/15 15:20:02.083.dfm,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UEntradaNF.dfm=</Transaction>
+    <Transaction>2013/06/15 15:20:38.717.pas,C:\Projetos\ERP_Delphi\Comum\Tela\UDataModuleNFe.pas=</Transaction>
+    <Transaction>2013/06/15 15:20:38.717.dfm,C:\Projetos\ERP_Delphi\Comum\Tela\UDataModuleNFe.dfm=</Transaction>
+    <Transaction>2013/06/15 15:20:58.886.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UNfeDetalheAnexo.pas=</Transaction>
+    <Transaction>2013/06/15 15:20:58.886.dfm,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UNfeDetalheAnexo.dfm=</Transaction>
+    <Transaction>2013/06/15 15:20:58.936.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UNFe.pas=</Transaction>
+    <Transaction>2013/06/15 15:20:58.936.dfm,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UNFe.dfm=</Transaction>
+    <Transaction>2013/06/15 15:21:52.662.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoPisVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.712.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoPisController.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.762.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoIssVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.802.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoIssController.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.852.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoIpiVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.893.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoIpiController.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.933.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoIcmsVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:52.973.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoIcmsCustomVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:53.013.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoIcmsCustomController.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:53.053.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoIcmsController.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:53.103.pas,C:\Projetos\ERP_Delphi\Comum\VO\ViewTributacaoCofinsVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:21:53.143.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\ViewTributacaoCofinsController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.180.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeNumeroController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.231.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeDetEspecificoMedicamentoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.281.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeDetEspecificoArmamentoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.321.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeDeclaracaoImportacaoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.371.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeConfiguracaoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.421.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NFeCalculoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:31:29.471.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Controller\NfeCabecalhoController.pas=</Transaction>
+    <Transaction>2013/06/15 15:36:32.187.pas,C:\Projetos\ERP_Delphi\Comum\VO\ContabilContaVO.pas=</Transaction>
+    <Transaction>2013/06/15 15:58:34.420.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UProduto.pas=</Transaction>
+    <Transaction>2013/06/15 15:58:34.420.dfm,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UProduto.dfm=</Transaction>
+    <Transaction>2013/06/15 15:58:34.470.pas,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UPessoa.pas=</Transaction>
+    <Transaction>2013/06/15 15:58:34.470.dfm,C:\Projetos\ERP_Delphi\SpedFiscal\Tela\UPessoa.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
